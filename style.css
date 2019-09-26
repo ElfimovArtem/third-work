@@ -54,14 +54,14 @@ header {
     background: #fce38a;
     color: #ffffff;
 }
-.fa {
+.header-layout-bar-container-menu i {
     color: #ffffff;
     padding: 0 20px 0 10px;
 }
-.fa:hover {
+.header-layout-bar-container-menu i:hover {
     color: #fce38a;
 }
-.fa:active {
+.header-layout-bar-container-menu i:active {
     transform: scale(0.92,0.92);
 }
 .header-layout-title {
@@ -154,7 +154,7 @@ header {
 }
 .first-screen-layout-container-block:hover {
     transform: translate(-7px, -7px);
-    box-shadow: 8px 8px 0 #75daff;
+    box-shadow: 8px 8px 0 #95e1d4;
 }
 .first-screen-layout-container-block-image {
     width: 100%;
@@ -204,3 +204,89 @@ header {
     opacity: 1;
 }
 /*second-screen*/
+.second-screen {
+    padding-bottom: 80px;
+}
+.second-screen-layout {
+    display: flex;
+    justify-content: space-between;
+    background: #95e1d4;
+}
+.second-screen-layout-block {
+    width: 240px;
+    text-align: center;
+    padding: 40px 0;
+    border-right: 1px solid #D3D3D3;
+}
+.second-screen-layout-block-number {
+    color: #ffffff;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 55px;
+}
+.second-screen-layout-block-text {
+    color: #ffffff;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+/*third-screen*/
+.third-screen-layout {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.third-screen-layout-description {
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+}
+.third-screen-layout-title {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.9;
+    font-size: 30px;
+    margin: 0;
+    padding: 20px 0 30px;
+}
+.third-screen-layout hr {
+    width: 60px;
+    border-color: #ff3232;
+    border-style: solid;
+}
+.third-screen-layout-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+}
+.third-screen-layout-container-block {
+    width: 400px;
+    display: flex;
+    padding: 50px 0 10px 0;
+    border-bottom: 1px solid #D3D3D3;
+}
+.third-screen-layout-container-block:nth-child(n+4) {
+    border-bottom: none;
+}
+.third-screen-layout-container-block-description-title {
+    margin: 0;
+    text-align: start;
+    font-family: 'Arial';
+    text-transform: uppercase;
+    color: #323232;
+}
+.third-screen-layout-container-block-description-text {
+    text-align: start;
+    padding: 10px 25px 35px 0;
+    margin: 0;
+    font-family: 'Arial';
+    line-height: 1.5;
+    color: #323232;
+}
+.third-screen-layout-container-block-icon i {
+    color: #95e1d4;
+    font-size: 30px;
+    padding: 3px 20px 0 5px;
+}
