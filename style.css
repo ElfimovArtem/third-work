@@ -140,7 +140,7 @@ header {
     width: 800px;
     margin: 30px auto;
     padding-bottom: 60px;
-    color: #a1a1a1;
+    color: #323232;
     line-height: 1.5;
 }
 .first-screen-layout-container {
@@ -289,4 +289,192 @@ header {
     color: #95e1d4;
     font-size: 30px;
     padding: 3px 20px 0 5px;
+}
+/*fourth-screen*/
+.fourth-screen {
+    background: image();
+}
+.fourth-screen-layout {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.fourth-screen-layout-description {
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+}
+.fourth-screen-layout-title {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.9;
+    font-size: 30px;
+}
+.fourth-screen-layout hr {
+    width: 60px;
+    border-color: #ff3232;
+    border-style: solid;
+}
+/*fifth-screen*/
+.fifth-screen {
+    margin-bottom: 40px;
+}
+.fifth-screen-layout {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.fifth-screen-layout-description {
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+}
+.fifth-screen-layout-title {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.9;
+    font-size: 30px;
+}
+.fifth-screen-layout hr {
+    width: 60px;
+    border-color: #ff3232;
+    border-style: solid;
+}
+.fifth-screen-layout-text {
+    font-family: 'Arial';
+    line-height: 1.5;
+    color: #323232;
+    width: 850px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+/*sixth-screen*/
+.sixth-screen {
+    background: #f8f8f8;
+    margin-bottom: 40px;
+}
+.sixth-screen-layout {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 90px;
+}
+.sixth-screen-layout-icon {
+    padding: 0 30px;
+}
+.sixth-screen-layout-icon i {
+    border: 2px solid #95e1d4;
+    padding: 5px;
+    color: #95e1d4;
+    margin-top: 5px;
+    font-size: 110px;
+}
+.sixth-screen-layout-description {
+    display: flex;
+    flex-direction: column;
+}
+.sixth-screen-layout-description-text {
+    text-align: start;
+    margin: 0;
+    padding: 0px 50px 10px 30px;
+    font-family: 'Arial';
+    line-height: 1.5;
+    font-size: 22px;
+    color: #aaaaaa
+}
+.sixth-screen-layout-description-signature {
+    display: flex;
+    flex-direction: row;
+}
+.sixth-screen-layout-description-signature hr {
+    width: 60px;
+    border-color: #ff3232;
+    border-style: solid;
+    margin: 0;
+}
+.sixth-screen-layout-description-signature-line {
+    padding: 30px 5px 0 30px;
+}
+.sixth-screen-layout-description-signature-name {
+    font-size: 18px;
+    font-family: 'Kaushan Script', cursive;
+    padding-top: 15px;
+}
+/*seventh-screen*/
+.seventh-screen-layout {
+    display: flex;
+    flex-direction: column;
+}
+.seventh-screen-layout-container-description {
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+}
+.seventh-screen-layout-container-title {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.9;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.seventh-screen-layout-container hr {
+    width: 60px;
+    border-color: #ff3232;
+    border-style: solid;
+    margin: 0 auto;
+}
+.seventh-screen-layout-container {
+    text-align: center;
+}
+.seventh-screen-layout-container-text {
+    font-family: 'Arial';
+    line-height: 1.5;
+    color: #323232;
+    width: 850px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+/*eighth-screen*/
+.eighth-screen {
+    background: #f8f8f8;
+    margin-bottom: 40px;
+}
+.eighth-screen-layout {
+    display: flex;
+    justify-content: space-between;
+}
+.eighth-screen-layout-block {
+    width: 150px;
+    height: 150px;
+}
+/*ninth-screen*/
+.ninth-screen-layout {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.ninth-screen-layout-description {
+    font-size: 25px;
+    font-family: 'Kaushan Script', cursive;
+}
+.ninth-screen-layout-title {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.9;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.ninth-screen-layout hr {
+    width: 60px;
+    border-color: #ff3232;
+    border-style: solid;
+    margin: 0 auto;
+}
+.ninth-screen-layout-text {
+    font-family: 'Arial';
+    line-height: 1.5;
+    color: #323232;
+    width: 850px;
+    margin: 0 auto;
+    padding: 30px 0;
 }
