@@ -26,54 +26,54 @@
 	header {
 		padding-bottom: 40px;
 	}
-	.header_layout-bar {
+	.header__layout-bar {
 		flex-direction: column;
 		padding-bottom: 20px;
 	}
 	.header_layout-bar-logo {
 		margin: 25px auto 15px auto;
 	}
-	.header_layout-bar-container-menu {
+	.header__layout-bar-container-menu {
 
 	}
-	.header_layout-bar-container {
+	.header__layout-bar-container {
 		width: auto;
 	}
-	.header_layout-bar-container-menu {
+	.header__layout-bar-container-menu {
 		padding-top: 10px;
 		width: auto;
 	}
-	.header_layout-bar-container-menu i {
+	.header__layout-bar-container-menu i {
 		padding-right: 15px;
 	}
-	.header_layout-bar-menu-link {
+	.header__layout-bar-menu-link {
 		margin: 0;
 		padding: 0 5px;
 		font-size: 12px;
 	}
-	.header_layout-title-description {
+	.header__layout-title-description {
 		font-size: 30px;
 		padding-bottom: 10px;
 	}
-	.header_layout-title h1 {
+	.header__layout-title h1 {
 		font-size: 40px;
 		width: 100%;
 	}
-	.header_layout {
+	.header__layout {
 		background-size: auto;
 		padding-bottom: 40px;
 	}
-	.first-screen_layout-text {
+	.first-screen__layout-text {
 		text-align: center;
 		width: auto;
 		font-size: 18px;
 		padding: 0 15px;
 	}
-	.first-screen_layout-container {
+	.first-screen__layout-container {
 		flex-direction: column;
 		margin: 0 auto;
 	}
-	.first-screen_layout-container-block {
+	.first-screen__layout-container-block {
 		margin-bottom: 10px;
 	}
 	.first-screen {
@@ -82,135 +82,135 @@
 	.second-screen {
 		padding-bottom: 40px;
 	}
-	.second-screen_layout-block {
+	.second-screen__layout-block {
 		padding: 15px 0;
 	}
-	.second-screen_layout-block-number {
+	.second-screen__layout-block-number {
 		font-size: 35px;
 	}
-	.second-screen_layout-block-text {
+	.second-screen__layout-block-text {
 		font-size: 12px;
 		font-weight: normal;
 	}
-	.third-screen_layout-container-block {
+	.third-screen__layout-container-block {
 		margin: 0 auto;
 	}
-	.third-screen_layout-container-block-description-text {
+	.third-screen__layout-container-block-description-text {
 		font-size: 18px;
 		padding: 10px 10px 20px 0;
 	}
-	.third-screen_layout-container-block:nth-child(n+0) {
+	.third-screen__layout-container-block:nth-child(n+0) {
 		border: none;
 	}
-	.third-screen_layout-container {
+	.third-screen__layout-container {
 		padding-bottom: 40px;
 	}
 	.fourth-screen {
 		padding-top: 20px;
 		margin-bottom: 80px;
 	}
-	.fourth-screen_layout-container-block {
+	.fourth-screen__layout-container-block {
 		width: 100%;
 		height: 100%;
 	}
-	.fourth-screen_layout-container-box {
+	.fourth-screen__layout-container-box {
 		width: 55%;
 		height: 80%;
 		top: 35%;
 		left: 50%;
 	}
-	.fifth-screen_layout-text {
+	.fifth-screen__layout-text {
 		width: auto;
 		padding-bottom: 30px;
 	}
-	.fifth-screen_layout-container {
+	.fifth-screen__layout-container {
 		flex-direction: column;
 	}
-	.fifth-screen_layout-container-photo {
+	.fifth-screen__layout-container-photo {
 		width: auto;
 		height: auto;
 		padding: 0 10px;
 	}
-	.fifth-screen_layout-container-description {
+	.fifth-screen__layout-container-description {
 		width: auto;
 		height: auto;
 		padding: 0 5px;
 	}
-	.sixth-screen_layout {
+	.sixth-screen__layout {
 		padding: 25px 0;
 	}
-	.sixth-screen_layout-icon i {
+	.sixth-screen__layout-icon i {
 		font-size: 50px;
 	}
-	.sixth-screen_layout-description-text {
+	.sixth-screen__layout-description-text {
 		font-size: 20px;
 	}
-	.seventh-screen_layout-container-text {
+	.seventh-screen__layout-container-text {
 		width: auto;
 		padding: 30px 5px;
 	}
-	.seventh-screen_layout-gallery {
+	.seventh-screen__layout-gallery {
 		flex-direction: column;
 	}
-	.seventh-screen_layout-gallery-box {
+	.seventh-screen__layout-gallery-box {
 		margin: 20px auto;
 	}
-	.seventh-screen_layout {
+	.seventh-screen__layout {
 		padding-bottom: 40px;
 	}
-	.eighth-screen_layout {
+	.eighth-screen__layout {
 		flex-wrap: wrap;
 		justify-content: center;
 		text-align: center;
 	}
-	.ninth-screen_layout-text {
+	.ninth-screen__layout-text {
 		width: auto;
 		padding: 30px 5px;
 	}
-	.ninth-screen_layout-gallery-block {
+	.ninth-screen__layout-gallery-block {
 		margin: 5px auto;
 	}
-	.tenth-screen_layout-icon {
+	.tenth-screen__layout-icon {
 		text-align: center;
 		margin: 0 auto;
 	}
-	.tenth-screen_layout-icon-image {
+	.tenth-screen__layout-icon-image {
 		margin: 0;
 		padding: 0;
 	}
-	.tenth-screen_layout-description-text {
+	.tenth-screen__layout-description-text {
 		width: auto;
 		height: auto;
 		margin: 0 auto;
 		font-size: 23px;
 		padding-right: 30px;
 	}
-	.tenth-screen_layout {
+	.tenth-screen__layout {
 		flex-direction: column;
 	}
-	.eleventh-screen_layout-container-block {
+	.eleventh-screen__layout-container-block {
 		padding-left: 15px;
 	}
-	.eleventh-screen_layout-container-block-description {
+	.eleventh-screen__layout-container-block-description {
 		padding-right: 5px;
 	}
-	.footer_layout {
+	.footer__layout {
 		flex-direction: column;
 	}
-	.footer_layout-description {
+	.footer__layout-description {
 		width: auto;
 		padding: 0 25px 20px 25px;
 	}
-	.footer_layout-description-title {
+	.footer__layout-description-title {
 		text-align: center;
 	}
-	.footer_layout-description-text {
+	.footer__layout-description-text {
 		font-size: 15px;
 	}
-	.footer_layout-contacts {
+	.footer__layout-contacts {
 		width: auto;
 	}
-	.footer_layout-contacts {
+	.footer__layout-contacts {
 		padding-right: 40px;
 	}
 }
@@ -222,61 +222,61 @@
 	header {
 		padding-bottom: 30px;
 	}
-	.header_layout-bar {
+	.header__layout-bar {
 		flex-direction: column;
 		padding-bottom: 20px;
 	}
-	.header_layout-bar-logo {
+	.header__layout-bar-logo {
 		margin: 25px auto 5px auto;
 	}
-	.header_layout-bar-container-menu {
+	.header__layout-bar-container-menu {
 
 	}
-	.header_layout-bar-container {
+	.header__layout-bar-container {
 		width: auto;
 	}
-	.header_layout-bar-container-menu {
+	.header__layout-bar-container-menu {
 		padding-top: 10px;
 		width: auto;
 	}
-	.header_layout-bar-container-menu i {
+	.header__layout-bar-container-menu i {
 		padding-right: 10px;
 		font-size: 14px;
 	}
-	.header_layout-bar-menu-link {
+	.header__layout-bar-menu-link {
 		margin: 0;
 		padding: 0 3px;
 		font-size: 11px;
 	}
-	.header_layout-title-description {
+	.header__layout-title-description {
 		font-size: 25px;
 		padding-bottom: 10px;
 	}
-	.header_layout-title h1 {
+	.header__layout-title h1 {
 		font-size: 35px;
 		width: 100%;
 	}
-	.header_layout {
+	.header__layout {
 		background-size: auto;
 		padding-bottom: 20px;
 	}
-	.first-screen_layout-text {
+	.first-screen__layout-text {
 		text-align: center;
 		width: auto;
 		font-size: 16px;
 		padding: 0 15px;
 	}
-	.first-screen_layout-description {
+	.first-screen__layout-description {
 		font-size: 22px;
 	}
-	.first-screen_layout-title {
+	.first-screen__layout-title {
 		font-size: 27px;
 	}
-	.first-screen_layout-container {
+	.first-screen__layout-container {
 		flex-direction: column;
 		margin: 0 auto;
 	}
-	.first-screen_layout-container-block {
+	.first-screen__layout-container-block {
 		margin: 10px;
 		width: auto;
 		height: auto;
@@ -287,219 +287,219 @@
 	.second-screen {
 		padding-bottom: 30px;
 	}
-	.second-screen_layout-block {
+	.second-screen__layout-block {
 		padding: 5px 0;
 	}
-	.second-screen_layout-block-number {
+	.second-screen__layout-block-number {
 		font-size: 30px;
 	}
-	.second-screen_layout-block-text {
+	.second-screen__layout-block-text {
 		font-size: 9px;
 		font-weight: normal;
 		padding: 0 3px;
 	}
-	.third-screen_layout-container-block {
+	.third-screen__layout-container-block {
 		margin: 0 auto;
 		padding-top: 30px;
 	}
-	.third-screen_layout-container-block-description-text {
+	.third-screen__layout-container-block-description-text {
 		font-size: 18px;
 		padding: 10px 10px 20px 0;
 	}
-	.third-screen_layout-container-block:nth-child(n+0) {
+	.third-screen__layout-container-block:nth-child(n+0) {
 		border: none;
 	}
-	.third-screen_layout-container {
+	.third-screen__layout-container {
 		padding-bottom: 30px;
 	}
-	.third-screen_layout-description {
+	.third-screen__layout-description {
 		font-size: 22px;
 	}
-	.third-screen_layout-title {
+	.third-screen__layout-title {
 		font-size: 26px;
 	}
-	.third-screen_layout-container-block-description-title {
+	.third-screen__layout-container-block-description-title {
 		font-size: 17px;
 	}
-	.third-screen_layout-container-block-description-text {
+	.third-screen__layout-container-block-description-text {
 		font-size: 14px;
 	}
 	.fourth-screen {
 		padding-top: 10px;
 		margin-bottom: 70px;
 	}
-	.fourth-screen_layout-description {
+	.fourth-screen__layout-description {
 		font-size: 22px;
 	}
-	.fourth-screen_layout-title {
+	.fourth-screen__layout-title {
 		font-size: 27px;
 	}
-	.fourth-screen_layout-container-block {
+	.fourth-screen__layout-container-block {
 		width: 100%;
 		height: 100%;
 	}
-	.fourth-screen_layout-container-box {
+	.fourth-screen__layout-container-box {
 		width: 55%;
 		height: 80%;
 		top: 35%;
 		left: 50%;
 	}
-	.fifth-screen_layout-text {
+	.fifth-screen__layout-text {
 		width: auto;
 		font-size: 14px;
 		padding: 20px 5px 30px 5px;
 	}
-	.fifth-screen_layout-description {
+	.fifth-screen__layout-description {
 		font-size: 22px;
 	}
-	.fifth-screen_layout-title {
+	.fifth-screen__layout-title {
 		font-size: 27px;
 	}
-	.fifth-screen_layout-container {
+	.fifth-screen__layout-container {
 		flex-direction: column;
 	}
-	.fifth-screen_layout-container-photo {
+	.fifth-screen__layout-container-photo {
 		width: auto;
 		height: auto;
 		padding: 0 10px;
 	}
-	.fifth-screen_layout-container-description {
+	.fifth-screen__layout-container-description {
 		width: auto;
 		height: auto;
 		padding: 0 5px;
 	}
-	.sixth-screen_layout {
+	.sixth-screen__layout {
 		padding: 25px 0;
 	}
-	.sixth-screen_layout-icon i {
+	.sixth-screen__layout-icon i {
 		font-size: 40px;
 	}
-	.sixth-screen_layout-icon {
+	.sixth-screen__layout-icon {
 		padding-right: 15px;
 	}
-	.sixth-screen_layout-description-text {
+	.sixth-screen__layout-description-text {
 		font-size: 18px;
 		padding: 0 30px 10px 20px;
 	}
-	.seventh-screen_layout-container-description {
+	.seventh-screen__layout-container-description {
 		font-size: 22px;
 	}
-	.seventh-screen_layout-container-title {
+	.seventh-screen__layout-container-title {
 		font-size: 27px;
 	}
-	.seventh-screen_layout-container-text {
+	.seventh-screen__layout-container-text {
 		width: auto;
 		padding: 30px 5px;
 		font-size: 15px;
 	}
-	.seventh-screen_layout-gallery {
+	.seventh-screen__layout-gallery {
 		flex-direction: column;
 		width: auto;
 	}
-	.seventh-screen_layout-gallery-box {
+	.seventh-screen__layout-gallery-box {
 		margin: 20px 10px;
 		width: auto;
 		height: 100%;
 	}
-	.seventh-screen_layout-gallery-box-photo {
+	.seventh-screen__layout-gallery-box-photo {
 		width: auto;
 		height: auto;
 	}
-	.seventh-screen_layout-gallery-box-photo-image {
+	.seventh-screen__layout-gallery-box-photo-image {
 		width: 100%;
 		height: auto;
 	}
-	.seventh-screen_layout {
+	.seventh-screen__layout {
 		padding-bottom: 40px;
 	}
-	.eighth-screen_layout {
+	.eighth-screen__layout {
 		flex-wrap: wrap;
 		justify-content: center;
 		text-align: center;
 	}
-	.ninth-screen_layout-description {
+	.ninth-screen__layout-description {
 		font-size: 22px;
 	}
-	.ninth-screen_layout-title {
+	.ninth-screen__layout-title {
 		font-size: 25px;
 	}
-	.ninth-screen_layout-text {
+	.ninth-screen__layout-text {
 		width: auto;
 		padding: 30px 5px;
 		font-size: 15px;
 	}
-	.ninth-screen_layout-gallery-block {
+	.ninth-screen__layout-gallery-block {
 		margin: 5px auto;
 	}
 	.tenth-screen {
 		margin-bottom: 30px;
 	}
-	.tenth-screen_layout-icon {
+	.tenth-screen__layout-icon {
 		text-align: center;
 		margin: 0 auto;
 	}
-	.tenth-screen_layout-icon-image {
+	.tenth-screen__layout-icon-image {
 		margin: 0;
 		padding: 0;
 	}
-	.tenth-screen_layout-description-text {
+	.tenth-screen__layout-description-text {
 		width: auto;
 		height: auto;
 		margin: 0 auto;
 		font-size: 20px;
 		padding: 15px;
 	}
-	.tenth-screen_layout {
+	.tenth-screen__layout {
 		flex-direction: column;
 	}
-	.eleventh-screen_layout-description {
+	.eleventh-screen__layout-description {
 		font-size: 22px;
 	}
-	.eleventh-screen_layout-title {
+	.eleventh-screen__layout-title {
 		font-size: 26px;
 	}
-	.eleventh-screen_layout-container {
+	.eleventh-screen__layout-container {
 		width: auto;
 		padding-bottom: 30px;
 	}
-	.eleventh-screen_layout-container-block {
+	.eleventh-screen__layout-container-block {
 		padding-left: 15px;
 		width: 100%;
 	}
-	.eleventh-screen_layout-container-block-description {
+	.eleventh-screen__layout-container-block-description {
 		padding-right: 5px;
 		width: auto;
 	}
-	.eleventh-screen_layout-container-block-description-text {
+	.eleventh-screen__layout-container-block-description-text {
 		width: auto;
 		padding-right: 10px;
 		font-size: 13px;
 	}
-	.footer_layout {
+	.footer__layout {
 		flex-direction: column;
 	}
-	.footer_layout-description {
+	.footer__layout-description {
 		width: auto;
 		padding: 0 25px 20px 25px;
 	}
-	.footer_layout-description-title {
+	.footer__layout-description-title {
 		text-align: center;
 	}
-	.footer_layout-description-text {
+	.footer__layout-description-text {
 		font-size: 15px;
 	}
-	.footer_layout-contacts {
+	.footer__layout-contacts {
 		width: auto;
 	}
-	.footer_layout-contacts {
+	.footer__layout-contacts {
 		padding-right: 40px;
 	}
-	.footer_layout-contacts-feedback-input {
+	.footer__layout-contacts-feedback-input {
 		width: auto;
 		height: auto;
 		padding: 10px;
 	}
-	.footer_layout-contacts-feedback {
+	.footer__layout-contacts-feedback {
 		flex-direction: column;
 	}
 }
